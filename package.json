@@ -1,8 +1,8 @@
 {
-  "name": "browserless-chrome",
+  "name": "frame",
   "version": "1.44.0",
   "description": "Chrome-as-a-service on your own hardware or in the cloud.",
-  "repository": "browserless/chrome",
+  "repository": "joeaa17/frame",
   "engines": {
     "node": ">=13.0.0"
   },
